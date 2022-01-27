@@ -1,0 +1,16 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+}
+
+#canvas{
+    box-sizing: border-box;
+    border: solid red 0.5px; /* in real applications the border will eat pixels from the canvas */
+    
+}
